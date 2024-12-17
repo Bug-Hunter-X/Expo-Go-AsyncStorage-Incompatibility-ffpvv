@@ -1,0 +1,1 @@
+This error occurs when using the Expo Go app to test a React Native application that uses AsyncStorage. The application may crash or fail to load, and the error message may not be very helpful. The underlying cause is often due to an incompatibility between the AsyncStorage implementation used by Expo Go and the application's code.
